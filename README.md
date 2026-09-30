@@ -12,7 +12,6 @@ Eligible new Meta Muse users may receive **1 billion Muse tokens** when they red
 3. Open **Settings**.
 4. Find the **Referral** or invite-code section.
 5. Enter **A1021X**.
-6. If it is unavailable, try **A1021X**.
 ## Muse Invite Code
 Current codes listed on this page:
 - `A1021X`
