@@ -11,7 +11,7 @@ Eligible new Meta Muse users may receive **1 billion Muse tokens** when they red
 2. Create or sign in to your account.
 3. Open **Settings**.
 4. Find the **Referral** or invite-code section.
-5. Enter **XEPCAJ**.
+5. Enter **A1021X**.
 6. If it is unavailable, try **A1021X**.
 ## Muse Invite Code
 Current codes listed on this page:
